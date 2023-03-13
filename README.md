@@ -1,4 +1,4 @@
-## Surf on the music -  Mixer
+# Surf on the music -  Mixer
 
 Web page featuring a surfing with draggable serf board. When dragged onto the waves, the beats on each surfboard can make one fantastic piece of music.
 
